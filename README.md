@@ -1,6 +1,6 @@
 # FRONT-END - REACT & JSON-SERVER - ROCKETSHOES
 
-Este é um aplicativo front-end desenvolvido com REACTJS, onde os usuários podem adicionar tênis ao carrinho de compras na página inicial e visualizar o total na página do carrinho. Eles podem remover ou adicionar produtos, com validação de estoque para evitar quantidades excedentes, exibindo erros quando necessário.
+Este é um aplicativo front-end desenvolvido com REACTJS, onde os usuários podem adicionar tênis ao carrinho de compras na página inicial e visualizar o total na página do carrinho. 
 
 ![pagina inicial com uma lista de sapatos](https://github.com/iamfelipy/rockseat-reactjs-chapter-ii-desafio1/blob/main/rocketshoes-1.png?raw=true)
 ![carrinho de compras](https://github.com/iamfelipy/rockseat-reactjs-chapter-ii-desafio1/blob/main/rocketshoes-2.png?raw=true)
